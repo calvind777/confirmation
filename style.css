@@ -1,0 +1,88 @@
+#done{
+	font-family: 'Droid Sans', sans-serif;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	margin-bottom:1em;
+}
+#title{
+	font-family: 'Droid Sans', sans-serif;
+	text-align:center;
+	font-size:40px;
+	color:white;
+}
+
+#container{
+	width:800px;
+	margin:auto;
+}
+
+#titletext{
+	font-family: 'Droid Sans', sans-serif;
+	text-align:center;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin:10px auto;
+	width:75%;
+}
+#explanation{
+	font-family: 'Droid Sans', sans-serif;
+	text-align:center;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin:10px auto;
+	width:65%;
+}
+#current{
+	font-family: 'Droid Sans', sans-serif;
+	text-align:center;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin:10px auto;
+	width:65%;
+}
+.money{
+	color:#ff5656 ;
+}
+
+.cheaper{
+	color:Chartreuse;
+}
+#logo{
+	text-align: center;
+	padding:10px;
+	margin-bottom:20px;
+}
+#button{
+	font-family: 'Droid Sans', sans-serif;
+	width:800px;
+
+}
+#button > form > table{
+	margin:auto;
+}
+#button > form > table > tbody > tr:nth-child(1) > td{
+	text-align: center;
+}
+.checkouti{
+	width:80em;
+
+	
+}
+
+#checkoutimg{
+	display:block;
+	margin:4em auto;
+	border-radius:3em;
+	width:15em;
+	transition: width 0.5s ease;
+	
+}
+#checkoutimg:hover{
+	
+width:20em;
+
+}
